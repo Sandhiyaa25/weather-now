@@ -14,8 +14,11 @@
  CSS — Styling and layout  
  React Icons — For weather and UI icons  
 
+ Live Link:
+ https://weather-now-brown-gamma.vercel.app/
+  
  Setup and Installation:
-  Clone the repository  
+   Clone the repository  
    bash
    git clone https://github.com/Sandhiyaa25/weather-now.git
 
